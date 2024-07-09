@@ -105,7 +105,7 @@ instance.
 
 Add the following keys and values:
 
-- DATABASE_URL (copy value from the **External Database URL** field)
+- DATABASE_URL (copy value from the **Internal Database URL** field)
 
 **Note:** Add any other keys and values that may be present in your local
 __.env__ file. As you work to further develop your project, you may need to add
